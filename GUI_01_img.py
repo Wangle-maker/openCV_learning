@@ -49,3 +49,4 @@ cv2.destroyAllWindows()
 # 使用函数 cv2.imwrite() 来保存一个图像。首先需要一个文件名，之后才是你要保存的图像。
 cv2.imwrite('hanpi.png', img)
 # 如果不写保存路径的时候默认的保存路径是与当前代码同位置的
+
